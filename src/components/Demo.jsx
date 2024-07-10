@@ -91,10 +91,10 @@ const Demo = () => {
           </button>
         </form>
 
-        {/* Browse History */}
+        {/* Browse History */} 
         <div className="flex flex-col gap-1 max-h-60 overflow-y-auto">
           {allArticles.reverse().map((item, index) => (
-            <div
+          {/*  <div
               key={`link-${index}`}
               onClick={() => setArticle(item)}
               className="link_card"
@@ -109,10 +109,10 @@ const Demo = () => {
               <p className="flex-1 font-satoshi text-blue-700 font-medium text-sm truncate">
                 {item.url}
               </p>
-            </div>
+            </div> */}
           ))}
         </div>
-      </div>
+      </div> 
 
       {/* Display Result */}
       <div className="my-10 max-w-full flex justify-center items-center">
