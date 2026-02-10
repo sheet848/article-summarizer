@@ -48,14 +48,7 @@ src/
 
 - [Article Extractor and Summarizer API](https://rapidapi.com/restyler/api/article-extractor-and-summarizer/) via RapidAPI
 
-## 📬 Contact
-
 Made with 💻 by [Sheetal Naik]
-
-- Portfolio: [sheetal-naik.vercel.app](https://sheetal-naik.vercel.app)
-- Email: [sheetalnaik310@gmail.com](mailto:sheetalnaik310@gmail.com)
-- LinkedIn: [linkedin.com/in/developer-sheetalnaik](https://linkedin.com/in/developer-sheetalnaik)
-    
 ---
 
 **Inspired by JavaScript Mastery’s YouTube Tutorial.**
